@@ -42,7 +42,6 @@ class Program
             Console.WriteLine($"A soma de todos os valores {S} é Impar");
         }
 
-        
         Console.WriteLine($"O maior valor é {M}");
     }
 }
